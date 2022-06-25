@@ -7,43 +7,43 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alu Adr 3695e
+    tagline: Dev-Ops Administrador de Sistemas.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: aluadr3695@ieselcaminas.org
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Europe/Madrid Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: aluadr3695.github.io #do not add http://
+    linkedin: aluadr3695
+    xing: aluadr3695
+    github: aluadr3695
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@aluadr3695'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Catalan
+        level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Play sax music
         link:
 
-      - item: Snowboarding
+      - item: Ciclyng
         link:
 
       - item: Cooking
